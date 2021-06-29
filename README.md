@@ -18,3 +18,4 @@ Every program in this repository is made and tested on windows platform in Code:
 The programs are made in the following order:-
 1. [OpenGL Basics](https://github.com/aroraishan464/Computer-Graphics/tree/master/hut%20scenery) (hut scenery)
 2. [DDA Line Drawing](https://github.com/aroraishan464/Computer-Graphics/tree/master/DDA%20line%20drawing)
+3. [Bresenham's Line Drawing](https://github.com/aroraishan464/Computer-Graphics/tree/master/Bresenham's%20line%20drawing)
