@@ -12,5 +12,5 @@ DDA (Digital Differential Analyzer) is an incremental method of scan conversion 
 - Last drawn line can be identified with bullet point on each end.   
  
 ## Output Screenshot
-<img src="https://user-images.githubusercontent.com/46368329/123773568-6138ee80-d8ea-11eb-98c3-e11bd5f7b335.png" width="49%">
-<img src="https://user-images.githubusercontent.com/46368329/123773574-626a1b80-d8ea-11eb-8e78-c9c0763a76c9.png" width="49%">
+<img src="https://user-images.githubusercontent.com/46368329/123773568-6138ee80-d8ea-11eb-98c3-e11bd5f7b335.png" width="49%"> <img src="https://user-images.githubusercontent.com/46368329/123773574-626a1b80-d8ea-11eb-8e78-c9c0763a76c9.png" width="49%">
+
