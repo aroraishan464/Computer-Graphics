@@ -15,5 +15,5 @@ In this program, four connected approach is used for both boundary fill and floo
 - Color will vanish after the polygon gets completely filled, so that it can be filled again with another random color.
 - By pressing spacebar in any sub-window, polygons of their respective sub-windows can be erased. After that new polygons can be made, or by pressing escape key, exit the program.    
  
-## Output Screenshot
+## Output
 <img src="https://user-images.githubusercontent.com/46368329/123795214-66556800-d901-11eb-8e83-65e327c08a89.gif"> 
