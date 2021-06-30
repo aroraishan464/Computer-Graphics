@@ -26,7 +26,7 @@ The programs are made in the following order:-
 8. [Short Animation](https://github.com/aroraishan464/Computer-Graphics/tree/master/Short%20Animation)
 
 ### Here are 2 screenshots from the above projects
-<img src="https://user-images.githubusercontent.com/46368329/123936740-1c2cbf00-d9b3-11eb-9b7c-0f562f835361.gif" height=400> <img src="https://user-images.githubusercontent.com/46368329/123798608-f8ab3b00-d904-11eb-8293-9db818b099b6.gif" height=400>  
+<img src="https://user-images.githubusercontent.com/46368329/123936740-1c2cbf00-d9b3-11eb-9b7c-0f562f835361.gif" height=400 width="57%"> <img src="https://user-images.githubusercontent.com/46368329/123798608-f8ab3b00-d904-11eb-8293-9db818b099b6.gif" height=400 width="40%">  
 
 Every project in this repository have their outputs displayed in their respective readme file. Be sure to check them out.
 
