@@ -19,3 +19,15 @@ The programs are made in the following order:-
 1. [OpenGL Basics](https://github.com/aroraishan464/Computer-Graphics/tree/master/hut%20scenery) (hut scenery)
 2. [DDA Line Drawing](https://github.com/aroraishan464/Computer-Graphics/tree/master/DDA%20line%20drawing)
 3. [Bresenham's Line Drawing](https://github.com/aroraishan464/Computer-Graphics/tree/master/Bresenham's%20line%20drawing)
+4. [Filling Algorithms](https://github.com/aroraishan464/Computer-Graphics/tree/master/Filling%20Algorithms)
+5. [2-D Transformations](https://github.com/aroraishan464/Computer-Graphics/tree/master/2-D%20Transformations)
+6. [3-D Transformations](https://github.com/aroraishan464/Computer-Graphics/tree/master/3-D%20Transformations)
+7. [Bezier Curve](https://github.com/aroraishan464/Computer-Graphics/tree/master/Bezier%20curve)
+8. [Short Animation](https://github.com/aroraishan464/Computer-Graphics/tree/master/Short%20Animation)
+
+### Here are 2 screenshots from the above projects
+<img src="https://user-images.githubusercontent.com/46368329/123936740-1c2cbf00-d9b3-11eb-9b7c-0f562f835361.gif" height=400> <img src="https://user-images.githubusercontent.com/46368329/123798608-f8ab3b00-d904-11eb-8293-9db818b099b6.gif" height=400>  
+
+Every project in this repository have their outputs displayed in their respective readme file. Be sure to check them out.
+
+**Thanks for Reading :)**
